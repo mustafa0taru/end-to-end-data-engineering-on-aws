@@ -1,1 +1,1 @@
-An end-to-end data pipeline on aws
+An end-to-end data engineering pipeline on aws
